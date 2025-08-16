@@ -13,7 +13,7 @@ license: "CC BY 4.0"
 rights_statement: "© 半田 晋也, 2025. Some rights reserved."
 identifiers:
   canonical_uri: "【公開後にGitHub ReleaseのURLを追記】"
-  content_hash_sha256: "【下の手順で算出してここに貼り付け】"
+  content_hash_sha256: "77C73DFB45716179FE384635B7E553E64EFB73812FD39AC7695BEE756011C06C"
 CIOP:
   pillars: ["PIAO", "UIR", "CIAO"]
   principles: ["不可視の論理", "登録しない自由", "戦略的不可視性", "自己決定権", "対幻想の尊重", "共同幻想の再構築"]
