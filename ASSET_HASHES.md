@@ -17,3 +17,12 @@
   - SHA-256: 77C73DFB45716179FE384635B7E553E64EFB73812FD39AC7695BEE756011C06C
 - assets/prompts_index.jsonl (public index)
   - SHA-256: 45D83E4BF51ECFB66D697DF103CA5FC717A1B074BC35C33A64EFD77B4EC88F94
+
+## v1.1.1
+- Release URL: https://github.com/hand-shinya/ciop-pure-thesis/releases/tag/v1.1.1
+
+### Tag snapshots
+- ciop_pure_thesis_v1_1.md (tag v1.1.1 RAW)
+  - SHA-256: <PowerShellで算出した値>
+- v1.1.1 release archive (zip)
+  - SHA-256: <PowerShellで算出した値>
