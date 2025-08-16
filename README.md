@@ -24,3 +24,10 @@ Copy the resulting SHA-256 into `identifiers.content_hash_sha256` in the front m
 - Put your GitHub Release URL into `identifiers.canonical_uri`.
 - (Optional) Connect to Zenodo to mint a DOI.
 - Cross-post to Note/Medium with the Release URL as the canonical link.
+
+- ## Releases
+- v1.1 — Main thesis (canonical)  
+  https://github.com/hand-shinya/ciop-pure-thesis/releases/tag/v1.1
+- v1.1.1 — Appendices (Originality, Math, Miura, Protocols, Meta)  
+  https://github.com/hand-shinya/ciop-pure-thesis/releases/tag/v1.1.1
+
