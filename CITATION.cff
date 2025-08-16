@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CIOP Pure Thesis v1.1 — Strategic Invisibility and the Right Not to Register"
+authors:
+  - family-names: Handa
+    given-names: Shinya
+    name: "Shinya Handa"
+date-released: "2025-08-15"
+version: "1.1"
+type: report
+license: "CC-BY-4.0"
