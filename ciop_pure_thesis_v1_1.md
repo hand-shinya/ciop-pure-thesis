@@ -12,7 +12,7 @@ language: "ja"
 license: "CC BY 4.0"
 rights_statement: "© 半田 晋也, 2025. Some rights reserved."
 identifiers:
-  canonical_uri: "【公開後にGitHub ReleaseのURLを追記】"
+  canonical_uri: "https://github.com/hand-shinya/ciop-pure-thesis/releases/tag/v1.1"
   content_hash_sha256: "77C73DFB45716179FE384635B7E553E64EFB73812FD39AC7695BEE756011C06C"
 CIOP:
   pillars: ["PIAO", "UIR", "CIAO"]
